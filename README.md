@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="35px">, I'm Jean</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JeanPeixot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-peixoto-/)
 
 ## 🛠 &nbsp;Tecnologias
 
